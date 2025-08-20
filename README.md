@@ -52,7 +52,7 @@ Este é um blog moderno e totalmente responsivo desenvolvido com Next.js 15, Rea
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/seu-usuario/blog.git
+git clone https://github.com/GustaDev12/Blog
 cd blog
 ```
 
@@ -266,8 +266,8 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 **Gustavo Vinicíus**
 
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seu-perfil)
+- GitHub: [@GustaDev12](https://github.com/GustaDev12)
+- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/gustavo-vinicius-5589b0371/)
 
 ---
 
@@ -277,8 +277,8 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para:
 
-- Abrir uma [issue](https://github.com/seu-usuario/blog/issues)
-- Entrar em contato via [email](mailto:seu-email@exemplo.com)
+- Abrir uma [issue](https://github.com/GustaDev12/blog/issues)
+- Entrar em contato via [email](mailto:gustavozinho7@gmail.com)
 
 ---
 
