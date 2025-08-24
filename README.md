@@ -267,7 +267,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 **Gustavo Vinicíus**
 
 - GitHub: [@GustaDev12](https://github.com/GustaDev12)
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/gustavo-vinicius-5589b0371/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/gustavo-vinicius-5589b0371/)
 
 ---
 
