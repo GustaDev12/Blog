@@ -272,16 +272,3 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ---
 
 ⭐ Se este projeto te ajudou, considere dar uma estrela!
-
-## 📞 Suporte
-
-Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para:
-
-- Abrir uma [issue](https://github.com/GustaDev12/blog/issues)
-- Entrar em contato via [email](mailto:gustavozinho7@gmail.com)
-
----
-
-<p align="center">
-  Feito com ❤️ e ☕ por Gustavo Vinicíus
-</p>
